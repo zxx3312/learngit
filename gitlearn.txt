@@ -1,0 +1,10 @@
+/C/Users/yjc/Desktop/csprojects/cpu/Computer_Organization_Project
+pwd
+
+git pull
+git add project_cpu
+git commit -m control
+git push origin master
+
+git status
+
